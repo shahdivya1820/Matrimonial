@@ -1,0 +1,34 @@
+
+ @media (min-width: 991px)
+ {
+  img.img-responsive {
+  height: 150px;
+  width: 60%;
+
+      
+  }
+  .w3_soulgrid {
+
+    text-align: -webkit-center;
+
+}
+ 
+ }
+ 
+ @media (max-width: 991px)
+ {
+  img.img-responsive {
+  height: 175px;
+  width: 60%;
+
+      
+  }
+  .w3_soulgrid {
+
+    text-align: -webkit-center;
+
+}
+ 
+ }
+
+ 

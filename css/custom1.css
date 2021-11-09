@@ -1,0 +1,76 @@
+@media (max-width: 768px) {
+.agileits-register {
+    top: 107px;
+    right: 30px;
+}
+}
+@media (min-width: 768px) {
+.agileits-register {
+    top: 107px;
+    right: 30px;
+    margin-bottom: 20px;
+    background: #ffeac4;
+}
+}
+@media (max-width: 991px) {
+.footer-grids ul li {
+    display: block;
+    font-size: 20px;
+    margin: 15px 0 0;
+    color: #000000;
+}
+.footer h3 {
+    font-size: 25px;
+}
+.w3-browse-grid h4 {
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+    font-size: 25px;
+}
+.w3-browse-grid ul li a {
+    font-size: 20px;
+}
+.w3layous-story h4 {
+    font-size: 25px;
+}
+.w3layous-story h4 a {
+    padding: 8px 23px;
+    font-size: 22px;
+}
+.footer-logo.header-logo h6 {
+    text-transform: uppercase;
+    font-size: 25px;
+    letter-spacing: 1px;
+    color: #ec3434;
+}
+.address-left ul li a {
+    color: #000;
+    font-size: 22px;
+}
+.demo-row-data {
+    font-size: 25px;
+    padding: 15px;
+    background:#ffeac4;
+}
+.w3l_about p {
+    font-size: 25px;
+    margin: 20px 0 0 0;
+}
+.language-link-item {
+    text-decoration: none;
+    color: #6aa8bf;
+    font-size: 20px;
+}
+span.agile-breadcrumbs {
+    color: #000;
+    font-size: 20px;
+}
+}
+.language-header {
+    background: #ecd6ac;
+}
+
+.demo-row-data {
+    background: #ecd6ac;
+    padding: 15px;
+}
